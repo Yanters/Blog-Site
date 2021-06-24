@@ -301,6 +301,11 @@ section,
   aspect-ratio: 4 / 3;
   object-fit: cover;
 }
+.snippet__image__readmore{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 .snippet__title {
   grid-area: title;
 }
