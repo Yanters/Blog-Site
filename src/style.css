@@ -320,6 +320,7 @@ section,
 
 .snippet .btn {
   grid-area: button;
+  transition: all 1s;
 }
 
 .snippet__title {
