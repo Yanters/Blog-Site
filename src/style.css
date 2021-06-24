@@ -183,7 +183,7 @@ section,
   color: var(--clr-primary-500);
 }
 .section-title{
-  padding-bottom: 30px;
+  margin-bottom: 30px;
 }
 
 .article-title {
